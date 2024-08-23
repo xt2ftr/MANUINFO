@@ -37,3 +37,7 @@ Dari pemahaman singkat visi dan misi serta motto di atas, maka untuk mengimpleme
 #CONTACT PERSON atau nomor yang bisa di hubungi: 0285 - 6689045
 
 #EMAIL: manubanyuputih@gmail.com
+
+#DATA ADMINISTRASI
+(nama)|(kelas)|(NIS)|(tagihan)|(pembayaran)
+Fathir Al Faruq|12 MIPA 1|5967|Rp300.0000|Rp150.000
